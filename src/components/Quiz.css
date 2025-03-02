@@ -1,0 +1,8 @@
+.correct{
+    background-color: #03fc77;
+    border:#35fc03
+}
+.wrong{
+    background-color: #fc3503;
+    border: #fc0f03;
+}
