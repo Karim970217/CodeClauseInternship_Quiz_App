@@ -8,5 +8,5 @@ export default defineConfig({
     tailwindcss(),
     react()
   ],
-  base:"/Quiz_App"
+  base:"/CodeClauseInternship_Quiz_App"
 })
