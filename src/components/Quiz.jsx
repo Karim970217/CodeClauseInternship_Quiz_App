@@ -58,7 +58,7 @@ const Quiz = () => {
 
   return (
     <div className='h-screen flex justify-center items-center'>
-        <div className='flex flex-col w-[80%] md:w-[60%] h-[80%] bg-[#6832a8] rounded-lg border-3 border-black-600'>
+        <div className='flex flex-col w-[80%] md:w-[60%] md:h-[80%] bg-[#6832a8] rounded-lg border-3 border-black-600'>
             <h1 className='text-[30px] flex justify-center text-white font-bold'>Quiz App</h1>
             {result?
             <>
